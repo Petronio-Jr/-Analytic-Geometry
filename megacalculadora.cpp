@@ -1,9 +1,7 @@
 /* Calculadora de matrizes 
 06/04/2025    
-Criador Petrônio    
-Faz quase tudo só ta faltando achar um jeito de fazer o código aceitar letras
-testa aí que me ajuda a achar erros     
-1300 linhas slk kkkk isso aí é um monstro*/
+Criador PetrÃ´nio       
+*/
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
